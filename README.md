@@ -1,5 +1,15 @@
 # Actividad 2: Análisis de reducción de dimensionalidad: PCA y t-SNE
 
+<!-- academic-catalog:start -->
+**UNIR · Máster en Inteligencia Artificial · Aprendizaje automático no supervisado**
+
+Comparación de PCA y t-SNE para visualizar datos de texto en dos dimensiones, con exploración de temas mediante LDA.
+
+**Tecnologías:** Python, scikit-learn, Gensim, PCA.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Objetivos 
 
 En este trabajo, se busca que pongas en práctica la aplicación de algoritmos de reducción de dimensionalidad. El objetivo es aplicar técnicas para reducir la dimensionalidad a 2D, graficar los resultados y seleccionar la mejor técnica para los datos. Además, deberás detallar los pasos a seguir para la reducción de dimensionalidad y analizar los resultados obtenidos. Entender los métodos de t-SNE y PCA.
